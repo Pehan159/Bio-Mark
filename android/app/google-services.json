@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40814960058",
+    "project_id": "biomark-99",
+    "storage_bucket": "biomark-99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40814960058:android:8de0bf3bad22abd52d1183",
+        "android_client_info": {
+          "package_name": "com.example.biomark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCThHVTnU9MZ-gHkR-NK2-SgUzKzyYSGBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
